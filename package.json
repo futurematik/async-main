@@ -1,6 +1,6 @@
 {
   "name": "@fmtk/async-main",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wrapper for async entrypoints",
   "main": "lib/index.js",
   "repository": "https://github.com/futurematik/async-main",
